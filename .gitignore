@@ -10,4 +10,12 @@
 /Redirect/Debug
 /Redirect/Release
 
+/demo/x64
+/demo/Debug
+/demo/Release
+
+/demo_with_asio/x64
+/demo_with_asio/Debug
+/demo_with_asio/Release
+
 /.vs
